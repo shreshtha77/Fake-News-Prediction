@@ -2,7 +2,7 @@
 
 Data set: https://www.kaggle.com/competitions/fake-news/data?select=test.csv
 
-The data set includes (around 20,000 news articles):
+The data set includes:
 1. id
 2. title
 3. author
